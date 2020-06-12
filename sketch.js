@@ -153,7 +153,7 @@ function draw(){
     box38.Score();
     boxs.display();
     slingshot.display();
-    console.log(box38.body.visiblity);
+   // console.log(box38.body.visiblity);
    // box33.display();
     base1.display();
     base2.display();
